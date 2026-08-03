@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -27,18 +29,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Array
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -74,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/wijdanqamhawi/https-github.com-wijdanqamhawi-leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
